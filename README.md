@@ -12,3 +12,7 @@ Ensure Python 3.8+ is installed. Set up the environment, create a virtual enviro
 python -m venv venv
 source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
 pip install -r requirements.txt
+# What I learned
+Acquired hands-on skills in crafting interactive web applications using Streamlit, demonstrating Python's capabilities in data processing and visualization. Honed expertise in connecting Python applications with SQL databases for real-time data retrieval and presentation. Mastered utilizing Folium for geospatial mapping and Altair for generating charts, thereby elevating the interactive experience and engagement within the app. Delved into sophisticated Streamlit functionalities, including sidebar widgets and live updates for charts, to develop an intuitive and engaging user interface.
+# Question
+How did I integrate Python with SQL databases in my projects? Could I provide an example of how I fetched and displayed dynamic data?
